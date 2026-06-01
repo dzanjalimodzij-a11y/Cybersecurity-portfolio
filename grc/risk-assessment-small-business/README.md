@@ -69,6 +69,7 @@ This project explores how to translate that messy real-world picture into a clea
 | [nist-csf-mapping.md](./nist-csf-mapping.md) | Mapping of recommended controls to NIST CSF 2.0 functions |
 | [conclusion.md](./conclusion.md) | Overall conclusion, residual risk, and next steps |
 | [references.md](./references.md) | Standards, frameworks, and sources used |
+| [Project Notes](project-notes.md) | Short reflective note on the purpose and possible future development of the project |
 | [evidence/screenshots-placeholder.md](./evidence/screenshots-placeholder.md) | Index of visual evidence and diagrams |
 
 ### Visual evidence
