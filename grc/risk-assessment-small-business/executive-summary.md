@@ -24,10 +24,10 @@ The assessment identified and scored **10 risks**:
 
 | Risk level | Number of risks |
 |-----------|:---------------:|
-| 🔴 Critical | 2 |
-| 🟠 High | 7 |
-| 🟡 Medium | 1 |
-| 🟢 Low | 0 |
+| Critical | 2 |
+| High | 7 |
+| Medium | 1 |
+| Low | 0 |
 
 **The two critical risks are:**
 

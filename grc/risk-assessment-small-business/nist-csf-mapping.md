@@ -5,7 +5,7 @@
 **Date:** 2026-06-01
 **Framework:** NIST Cybersecurity Framework (CSF) 2.0
 
-> ⚠️ *Educational mapping for the BrightPath Tutoring Ltd assessment.*
+This mapping links the recommended controls to the NIST CSF 2.0 functions used in the assessment.
 
 ---
 
@@ -50,12 +50,12 @@ This document maps the recommended controls from the [control recommendations](.
 
 | CSF Function | Covered by | Coverage |
 |--------------|-----------|----------|
-| **GOVERN** | REC-02, REC-07, REC-08, REC-09 | ✅ Good |
-| **IDENTIFY** | Asset register, threat register, this assessment | ✅ Good |
-| **PROTECT** | REC-01, REC-02, REC-03, REC-05, REC-06, REC-07, REC-09, REC-10, REC-11 | ✅ Strong |
-| **DETECT** | REC-03, REC-05 (plus M365 audit logging in REC-02) | ⚠️ Developing |
-| **RESPOND** | REC-08 | ⚠️ Developing |
-| **RECOVER** | REC-04 | ✅ Adequate |
+| **GOVERN** | REC-02, REC-07, REC-08, REC-09 | Good |
+| **IDENTIFY** | Asset register, threat register, this assessment | Good |
+| **PROTECT** | REC-01, REC-02, REC-03, REC-05, REC-06, REC-07, REC-09, REC-10, REC-11 | Strong |
+| **DETECT** | REC-03, REC-05 (plus M365 audit logging in REC-02) | Developing |
+| **RESPOND** | REC-08 | Developing |
+| **RECOVER** | REC-04 | Adequate |
 
 **Observation:** As expected for a small business at the start of its security journey, the recommendations are strongest in **IDENTIFY** and **PROTECT**. **DETECT** and **RESPOND** are the natural areas for maturity improvement once the foundational protective controls are in place — for example, regularly reviewing Microsoft 365 audit logs and exercising the incident response plan.
 

@@ -5,7 +5,7 @@
 **Date:** 2026-06-01
 **Classification:** Internal — Confidential
 
-> ⚠️ *Recommendations are illustrative and proportionate to a ~10-person SME with no dedicated IT/security staff.*
+The recommendations are proportionate to a small organisation with limited internal IT and security capacity.
 
 ---
 

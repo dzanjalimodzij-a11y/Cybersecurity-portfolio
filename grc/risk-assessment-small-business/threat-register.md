@@ -6,7 +6,7 @@
 **Methodology:** Threat actor analysis + STRIDE
 **Classification:** Internal — Confidential
 
-> ⚠️ *The threats below are illustrative and representative of the sector.*
+The threats below reflect common issues faced by small online education providers.
 
 ---
 

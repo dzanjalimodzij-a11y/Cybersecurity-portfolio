@@ -16,14 +16,14 @@ All offensive security work documented here was conducted exclusively in isolate
 
 | Area | Project | Skills Demonstrated | Status | Link |
 |------|---------|-------------------|--------|------|
-| Blue Team | Windows Sysmon Detection Lab | SIEM, log analysis, detection engineering, incident response | 🔄 In Progress | [View](./blue-team/windows-sysmon-detection-lab/) |
-| Blue Team | Phishing Analysis & IR Playbook | Email forensics, IOC extraction, incident response, user awareness | 🔄 In Progress | [View](./blue-team/phishing-analysis-ir-playbook/) |
-| Red Team | OWASP Juice Shop Web Assessment | Web app pentesting, OWASP Top 10, vulnerability reporting | 🔄 In Progress | [View](./red-team/owasp-juice-shop-assessment/) |
-| Red Team | Active Directory Attack Path Lab | AD enumeration, privilege escalation, MITRE ATT&CK mapping | 🔄 In Progress | [View](./red-team/active-directory-attack-path-lab/) |
-| GRC | Cyber Risk Assessment — Small UK Online Tutoring Business | Risk methodology, asset/threat/risk registers, controls mapping (NIST CSF) | ✅ Complete | [View](./grc/risk-assessment-small-business/) |
-| GRC | Mini ISMS Policy Pack | ISO 27001 alignment, policy writing, risk treatment | 🔄 In Progress | [View](./grc/mini-isms-policy-pack/) |
+| Blue Team | Windows Sysmon Detection Lab | SIEM, log analysis, detection engineering, incident response | In Progress | [View](./blue-team/windows-sysmon-detection-lab/) |
+| Blue Team | Phishing Analysis & IR Playbook | Email forensics, IOC extraction, incident response, user awareness | In Progress | [View](./blue-team/phishing-analysis-ir-playbook/) |
+| Red Team | OWASP Juice Shop Web Assessment | Web app pentesting, OWASP Top 10, vulnerability reporting | In Progress | [View](./red-team/owasp-juice-shop-assessment/) |
+| Red Team | Active Directory Attack Path Lab | AD enumeration, privilege escalation, MITRE ATT&CK mapping | In Progress | [View](./red-team/active-directory-attack-path-lab/) |
+| GRC | Cyber Risk Assessment — Small UK Online Tutoring Business | Risk methodology, asset/threat/risk registers, controls mapping (NIST CSF) | Complete | [View](./grc/risk-assessment-small-business/) |
+| GRC | Mini ISMS Policy Pack | ISO 27001 alignment, policy writing, risk treatment | In Progress | [View](./grc/mini-isms-policy-pack/) |
 
-**Status key:** ✅ Complete | 🔄 In Progress | 📋 Planned
+**Status key:** Complete | In Progress | Planned
 
 ---
 
@@ -96,9 +96,9 @@ cybersecurity-portfolio/
 
 **Explore by area:**
 
-- 🛡️ [**Blue Team projects**](./blue-team/) — detection, monitoring, and incident response
-- ⚔️ [**Red Team projects**](./red-team/) — offensive security and vulnerability assessment
-- 📋 [**GRC projects**](./grc/) — governance, risk, compliance, and policy
+- [**Blue Team projects**](./blue-team/) — detection, monitoring, and incident response
+- [**Red Team projects**](./red-team/) — offensive security and vulnerability assessment
+- [**GRC projects**](./grc/) — governance, risk, compliance, and policy
 
 Each project folder contains:
 - A **README.md** with full project documentation (overview, scenario, methodology, findings, lessons learned)

@@ -6,7 +6,7 @@
 **Owner:** Director (acting Information Asset Owner)
 **Classification:** Internal — Confidential
 
-> ⚠️ *The assets below are illustrative and used for this practice assessment.*
+This asset register defines the information, system, people, and physical assets considered in the assessment.
 
 ---
 

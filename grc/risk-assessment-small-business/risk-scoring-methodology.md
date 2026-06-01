@@ -59,26 +59,26 @@ The risk score maps to a risk level that drives prioritisation and treatment urg
 
 | Risk Score | Risk Level | Meaning |
 |------------|-----------|---------|
-| **1–4** | 🟢 **Low** | Acceptable; monitor. No immediate action required. |
-| **5–9** | 🟡 **Medium** | Address within a reasonable timeframe; keep under review. |
-| **10–16** | 🟠 **High** | Significant; prioritise treatment in the near term. |
-| **17–25** | 🔴 **Critical** | Unacceptable; requires urgent action. |
+| **1–4** | **Low** | Acceptable; monitor. No immediate action required. |
+| **5–9** | **Medium** | Address within a reasonable timeframe; keep under review. |
+| **10–16** | **High** | Significant; prioritise treatment in the near term. |
+| **17–25** | **Critical** | Unacceptable; requires urgent action. |
 
 ---
 
 ## 6. 5×5 risk matrix
 
-The matrix below shows the risk score (Likelihood × Impact) and the colour band for every combination.
+The matrix below shows the risk score (Likelihood × Impact) for every combination.
 
 | Likelihood ↓ / Impact → | 1 (Negligible) | 2 (Minor) | 3 (Moderate) | 4 (Major) | 5 (Catastrophic) |
 |---|---|---|---|---|---|
-| **5 (Almost Certain)** | 5 🟡 | 10 🟠 | 15 🟠 | 20 🔴 | 25 🔴 |
-| **4 (Likely)** | 4 🟢 | 8 🟡 | 12 🟠 | 16 🟠 | 20 🔴 |
-| **3 (Possible)** | 3 🟢 | 6 🟡 | 9 🟡 | 12 🟠 | 15 🟠 |
-| **2 (Unlikely)** | 2 🟢 | 4 🟢 | 6 🟡 | 8 🟡 | 10 🟠 |
-| **1 (Rare)** | 1 🟢 | 2 🟢 | 3 🟢 | 4 🟢 | 5 🟡 |
+| **5 (Almost Certain)** | 5 | 10 | 15 | 20 | 25 |
+| **4 (Likely)** | 4 | 8 | 12 | 16 | 20 |
+| **3 (Possible)** | 3 | 6 | 9 | 12 | 15 |
+| **2 (Unlikely)** | 2 | 4 | 6 | 8 | 10 |
+| **1 (Rare)** | 1 | 2 | 3 | 4 | 5 |
 
-🟢 Low (1–4)  🟡 Medium (5–9)  🟠 High (10–16)  🔴 Critical (17–25)
+Low (1–4)  Medium (5–9)  High (10–16)  Critical (17–25)
 
 ---
 

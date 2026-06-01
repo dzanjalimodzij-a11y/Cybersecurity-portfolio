@@ -4,7 +4,7 @@
 **Version:** 1.0
 **Date:** 2026-06-01
 
-> ⚠️ *Conclusion of the educational risk assessment for BrightPath Tutoring Ltd.*
+This conclusion summarises the main risk themes, residual risk position, and practical next steps for BrightPath Tutoring Ltd.
 
 ---
 
@@ -16,10 +16,10 @@ Ten risks were identified and scored. The risk profile is:
 
 | Risk level | Count |
 |-----------|:-----:|
-| 🔴 Critical | 2 |
-| 🟠 High | 7 |
-| 🟡 Medium | 1 |
-| 🟢 Low | 0 |
+| Critical | 2 |
+| High | 7 |
+| Medium | 1 |
+| Low | 0 |
 
 The two **critical** risks — weak Microsoft 365 account security (R-02) and ransomware (R-04) — together represent the most likely route to a serious, reportable breach of children's data.
 
@@ -40,11 +40,11 @@ If the Priority 1 and Priority 2 controls in the [control recommendations](./con
 
 | Risk | Inherent score | Expected residual | Expected level |
 |------|:--------------:|:-----------------:|----------------|
-| R-02 Weak M365 security | 20 🔴 | ~6 | 🟡 Medium |
-| R-04 Ransomware | 20 🔴 | ~8 | 🟡 Medium |
-| R-01 Phishing | 16 🟠 | ~8 | 🟡 Medium |
-| R-08 No incident response | 16 🟠 | ~6 | 🟡 Medium |
-| Other High risks (R-03, R-05, R-06, R-07, R-09) | 10–12 🟠 | ~4–6 | 🟢/🟡 Low–Medium |
+| R-02 Weak M365 security | 20 | ~6 | Medium |
+| R-04 Ransomware | 20 | ~8 | Medium |
+| R-01 Phishing | 16 | ~8 | Medium |
+| R-08 No incident response | 16 | ~6 | Medium |
+| Other High risks (R-03, R-05, R-06, R-07, R-09) | 10–12 | ~4–6 | Low–Medium |
 
 No residual risk is expected to remain Critical, and most would fall to Low or Medium. Residual risk would be re-scored after implementation.
 

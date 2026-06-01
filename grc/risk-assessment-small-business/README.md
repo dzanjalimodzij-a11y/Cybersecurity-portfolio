@@ -4,7 +4,7 @@
 > **Scenario:** BrightPath Tutoring Ltd — small UK online tutoring business
 > **Frameworks used:** NIST SP 800-30, NIST Cybersecurity Framework (CSF) 2.0, ISO/IEC 27001:2022, UK GDPR / Data Protection Act 2018
 
-> ⚠️ *BrightPath Tutoring Ltd is a fictional small UK online tutoring business used for this independent practice assessment. No real organisation is represented.*
+BrightPath Tutoring Ltd is a fictional small UK online tutoring business used for this independent practice assessment; all data, risks, diagrams, and screenshots are illustrative.
 
 ---
 
@@ -69,7 +69,18 @@ This project explores how to translate that messy real-world picture into a clea
 | [nist-csf-mapping.md](./nist-csf-mapping.md) | Mapping of recommended controls to NIST CSF 2.0 functions |
 | [conclusion.md](./conclusion.md) | Overall conclusion, residual risk, and next steps |
 | [references.md](./references.md) | Standards, frameworks, and sources used |
-| [evidence/screenshots-placeholder.md](./evidence/screenshots-placeholder.md) | Placeholder describing supporting evidence/diagrams |
+| [evidence/screenshots-placeholder.md](./evidence/screenshots-placeholder.md) | Index of visual evidence and diagrams |
+
+### Visual evidence
+
+| Evidence file | Purpose |
+|---------------|---------|
+| [risk-matrix.png](./evidence/risk-matrix.png) | 5×5 risk heat map plotting all 10 risks from the risk register |
+| [risk-profile-chart.png](./evidence/risk-profile-chart.png) | Risk count by level from the risk register |
+| [system-architecture.png](./evidence/system-architecture.png) | High-level BrightPath system architecture diagram |
+| [data-flow-diagram.png](./evidence/data-flow-diagram.png) | Student, payment, booking, and lesson data flows across trust boundaries |
+| [nist-csf-coverage.png](./evidence/nist-csf-coverage.png) | NIST CSF 2.0 mapped project controls/actions by function |
+| [m365-secure-score.png](./evidence/m365-secure-score.png) | Illustrative Secure Score-style example showing how security posture improvements could be prioritised |
 
 ---
 
@@ -89,4 +100,4 @@ The suggested reading order is:
 
 ## 6. Status
 
-✅ **Documentation complete.** Diagrams and screenshots referenced in `evidence/` are placeholders to be added when supporting visuals are produced.
+**Documentation and supporting visuals complete.** Evidence diagrams and sample visualisations are available in `evidence/`.
