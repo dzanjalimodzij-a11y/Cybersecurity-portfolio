@@ -1,4 +1,4 @@
-# Mini ISMS / Security Policy Pack for a Small Company
+# Mini ISMS policy pack
 
 > **Project category:** Governance, Risk & Compliance (GRC) / Security Governance
 > **Scenario:** BrightBox Retail Ltd - small UK online retail business
