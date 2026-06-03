@@ -21,7 +21,7 @@ All offensive security work documented here was conducted exclusively in isolate
 | Red Team | OWASP Juice Shop Web Assessment | Web app pentesting, OWASP Top 10, vulnerability reporting | In Progress | [View](./red-team/owasp-juice-shop-assessment/) |
 | Red Team | Active Directory Attack Path Lab | AD enumeration, privilege escalation, MITRE ATT&CK mapping | In Progress | [View](./red-team/active-directory-attack-path-lab/) |
 | GRC | Cyber Risk Assessment — Small UK Online Tutoring Business | Risk methodology, asset/threat/risk registers, controls mapping (NIST CSF) | Complete | [View](./grc/risk-assessment-small-business/) |
-| GRC | Mini ISMS Policy Pack | ISO 27001 alignment, policy writing, risk treatment | In Progress | [View](./grc/mini-isms-policy-pack/) |
+| GRC | Mini ISMS Policy Pack | ISO 27001 alignment, policy writing, risk treatment | Complete | [View](./grc/02-mini-isms-security-policy-pack/) |
 
 **Status key:** Complete | In Progress | Planned
 
